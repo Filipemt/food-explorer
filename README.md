@@ -1,7 +1,7 @@
 <h1 align="center"> Food Explorer - FrontEnd </h1>
 
 <p align="center">
-Aplicação para ser usada como cardápio digital ou menu interativo para um restaurante, lanchonete, etc.
+O Food Explorer é um menu digital para um restaurante fictício.
 </p>
 
 <p align="center">
@@ -27,8 +27,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - ReactJS
 - Styled-Components
 - Vite
+- React Icons
+- Axios
+- react-router-dom
 
 ##
+
+## 🔨 Layout
+
+ Layout do projeto no figma: https://www.figma.com/file/GkqG5AUJe3ppcUEHfvOX6z/food-explorer?node-id=0%3A1
+
+##  
 
 ## 💡 Utilização
 
@@ -64,6 +73,8 @@ Deploy: https://foodxplorer1.netlify.app/
 
 
 ## 👨‍💻 Veja o [Back-end](https://github.com/Filipemtb/FoodExplorer-BackEnd) 
+
+
 
 ## 💻 Projeto
 
